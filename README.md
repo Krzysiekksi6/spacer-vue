@@ -1,4 +1,4 @@
-# spacer
+# Spacer App
 
 ## Project setup
 ```
